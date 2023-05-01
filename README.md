@@ -1,6 +1,7 @@
 Installation
 
-- Clone this repo
+- Clone this repo.
+- Copy the contents of `.env.example` to a new `.env` file.
 - Run the following:
 
 ```
